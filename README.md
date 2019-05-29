@@ -1,18 +1,18 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">  
+____
 
 <b> <font size='5'>  
-PROJECT THREE: &nbsp; Sub-reddit Post Classification<br> </font>  
+Sub-reddit Post Classification<br> </font>  
 
-<font size='4'>Separating Science-Fact From Science-Fiction </font> </b>
+<font size='4'>Separating Science-Fact From Science-Fiction </font>
 
 <font size='3'>  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Manu Kalia Project Submission<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DSI-7-SF<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 08-Apr-2019<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Manu Kalia NLP Classification Project<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 08-Apr-2019<br><br>
 </font>
 
 
-
+___
+    
 ### Problem Statement  
 
 <font size='2'>  
